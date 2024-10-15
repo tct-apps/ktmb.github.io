@@ -10,5 +10,17 @@
         "A3:0F:F0:B8:53:FE:7D:B9:D5:B5:2C:A8:23:E6:C5:75:54:75:31:DB:F6:EF:D4:47:45:0A:03:88:15:27:03:51"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ktmb.user.mobile.dev",
+      "sha256_cert_fingerprints": [
+        "4D:C1:DD:CB:66:A3:A7:09:FD:FD:7E:86:28:BF:96:B5:D0:D1:DC:C5:23:EB:FC:F5:CC:E0:C6:E3:A9:0D:99:16"
+      ]
+    }
   }
 ]
